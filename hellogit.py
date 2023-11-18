@@ -1,1 +1,1 @@
-print (1)
+print ("New 1")
